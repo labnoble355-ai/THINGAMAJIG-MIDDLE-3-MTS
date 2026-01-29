@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Profile - Prabowo Subianto</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+        <div class="profile-card">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Prabowo_Subianto_2023.jpg" alt="Prabowo Subianto">
+            
+            <h1>Prabowo Subianto</h1>
+            <h3>President of Indonesia</h3>
+
+            <p>
+                Prabowo Subianto is an Indonesian politician, former army general, 
+                and the 8th President of the Republic of Indonesia. He previously served 
+                as Minister of Defense and is known for his nationalist views and leadership.
+            </p>
+
+            <div class="info">
+                <div>
+                    <span>Born</span>
+                    <p>17 October 1951</p>
+                </div>
+                <div>
+                    <span>Nationality</span>
+                    <p>Indonesian</p>
+                </div>
+                <div>
+                    <span>Profession</span>
+                    <p>Politician</p>
+                </div>
+            </div>
+
+            <a href="#" class="btn">Learn More</a>
+        </div>
+    </div>
+
+</body>
+</html>
